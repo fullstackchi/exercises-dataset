@@ -26,6 +26,12 @@
 
 ---
 
+### 🇺🇿 Uzbek (Uz) — localization in progress
+
+An additive [Uzbek localization overlay](data/exercises_uz.json) now covers category, equipment, target and muscle metadata for **all 1,324 exercises**. Reviewed Uzbek names and instructions are currently available for **2 exercises**; other exercise instructions are **not yet translated**. See [README.uz.md](README.uz.md) for the merge script, examples, remaining work and optional machine-translation workflow. The original 10 fully available instruction languages are unchanged.
+
+---
+
 ## 📦 Data Source
 
 **This repository provides:**
